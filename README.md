@@ -16,17 +16,18 @@
 <br>
 <br>
 **首页**
+<br>
 
 ![首页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140518.jpg)
-
+<br>
 **登陆页**
-
+<br>
 ![登陆页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140524.jpg)
-
+<br>
 **注册页**
-
-![注册页]()
-
+<br>
+![注册页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140529.jpg)
+<br>
 **详细页**
-
+<br>
 ![详细页]()
