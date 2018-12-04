@@ -15,9 +15,10 @@
 ### 手机号只能是11位的数字，密码只能是数字和字母的组合
 <br>
 <br>
-![image]
-(https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140518.jpg)
+
+![image](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140518.jpg)
 
 ![**登陆页**]( "")<br>
+
 ![**注册页**]( "")<br>
 ![**详细页**]( "")<br>
