@@ -35,6 +35,8 @@ public class MusicActivity extends AppCompatActivity {
             InputStream inputStream = getAssets().open("json.txt");
             InputStreamReader input = new InputStreamReader(inputStream);
             myJson.load(input);
+            input.close();
+            inputStream.close();
             ArrayList<HashMap> musicList = (ArrayList<HashMap>) myJson.file.get("data");
             assert musicList != null;
             for (HashMap hashMap : musicList) {
