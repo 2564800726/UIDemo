@@ -17,7 +17,6 @@
 <br>
 **首页**
 <br>
-
 ![首页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140518.jpg)
 <br>
 **登陆页**
@@ -30,4 +29,5 @@
 <br>
 **详细页**
 <br>
-![详细页]()
+![详细页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140546.jpg)
+<br>
