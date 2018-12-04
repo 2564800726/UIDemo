@@ -14,8 +14,20 @@
 *layout_music.xml*<br>
 ### 手机号只能是11位的数字，密码只能是数字和字母的组合
 <br>
+
+**首页**
+
+![首页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140518.jpg)
 <br>
-![**首页**](http://pic28.photophoto.cn/20130818/0020033143720852_b.jpg "儿童")<br>
-![**登陆页**]( "")<br>
-![**注册页**]( "")<br>
-![**详细页**]( "")<br>
+**登陆页**
+<br>
+![登陆页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140524.jpg)
+<br>
+**注册页**
+<br>
+![注册页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140529.jpg)
+<br>
+**详细页**
+<br>
+![详细页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140546.jpg)
+<br>
