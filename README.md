@@ -14,9 +14,8 @@
 *layout_music.xml*<br>
 ### 手机号只能是11位的数字，密码只能是数字和字母的组合
 <br>
-<br>
+
 **首页**
-<br>
 
 ![首页](https://github.com/2564800726/UIDemo/blob/master/img/Screenshot_20181204-140518.jpg)
 <br>
