@@ -17,10 +17,6 @@ public class RegisterActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_register);
-        ActionBar actionBar = getSupportActionBar();
-        if (actionBar != null) {
-            actionBar.hide();
-        }
         Toolbar toolbar = findViewById(R.id.tb_register);
         toolbar.setOnClickListener(new View.OnClickListener() {
             @Override

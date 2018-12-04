@@ -22,10 +22,6 @@ public class MusicActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_music);
-        ActionBar actionBar = getSupportActionBar();
-        if (actionBar != null) {
-            actionBar.hide();
-        }
         loadResource();
         RecyclerView recyclerView = findViewById(R.id.rv_music);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);

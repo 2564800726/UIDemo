@@ -19,10 +19,6 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_login);
-        ActionBar actionBar = getSupportActionBar();
-        if (actionBar != null) {
-            actionBar.hide();
-        }
         Toolbar toolbar = findViewById(R.id.tb_login);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
